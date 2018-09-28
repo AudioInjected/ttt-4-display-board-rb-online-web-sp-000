@@ -12,3 +12,5 @@ display_board(board)
 puts "\n"
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
+puts "\n"
+board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
