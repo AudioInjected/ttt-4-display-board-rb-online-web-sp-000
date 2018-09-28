@@ -10,6 +10,6 @@ def display_board(board)
 end
 #display_board(board)
 
-puts "X #{board[4]}"
+puts "X #{board[5]}"
 
 display_board(board)
