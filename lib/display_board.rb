@@ -24,7 +24,8 @@ puts "\n"
 board = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
 puts "\n"
 board = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
-
+puts "\n"
+board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 puts "\n"
 board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
 puts "\n"
