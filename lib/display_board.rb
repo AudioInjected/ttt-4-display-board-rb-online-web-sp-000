@@ -14,19 +14,28 @@ board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
 puts "\n"
 board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
+display_board(board)
 puts "\n"
 board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
+display_board(board)
 puts "\n"
 board = ["X", "x", "X", " ", " ", " ", " ", " ", " "]
+display_board(board)
 puts "\n"
 board = [" ", " ", " ", " ", " ", " ", "O", "O", "O"]
+display_board(board)
 puts "\n"
 board = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
+display_board(board)
 puts "\n"
 board = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
+display_board(board)
 puts "\n"
 board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+display_board(board)
 puts "\n"
 board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
+display_board(board)
 puts "\n"
 board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+display_board(board)
