@@ -19,7 +19,7 @@ puts "\n"
 board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
 puts "\n"
-board = ["X", "x", "X", " ", " ", " ", " ", " ", " "]
+board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 display_board(board)
 puts "\n"
 board = [" ", " ", " ", " ", " ", " ", "O", "O", "O"]
