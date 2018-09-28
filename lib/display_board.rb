@@ -9,3 +9,7 @@ def display_board(board)
   puts "   |   |   "
 end
 display_board(board)
+
+puts "X #{board[4]}"
+
+display_board(board)
