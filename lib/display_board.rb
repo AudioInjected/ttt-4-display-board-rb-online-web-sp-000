@@ -31,7 +31,7 @@ puts "\n"
 board = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
 display_board(board)
 puts "\n"
-board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
+board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
 display_board(board)
 puts "\n"
 board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
